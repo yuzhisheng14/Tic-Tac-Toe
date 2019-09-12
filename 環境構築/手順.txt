@@ -1,0 +1,4 @@
+1.Python3をインストールする
+2.Packageを導入する
+　　pip install -r packages.txt
+3.Tic_Tac_Toe.pyをダブルクリックする
